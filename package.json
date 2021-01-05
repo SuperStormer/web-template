@@ -32,9 +32,9 @@
 		"@babel/core": "^7.10.2",
 		"@babel/preset-env": "^7.10.2",
 		"@babel/preset-react": "^7.10.1",
-		"browser-sync": "^2.26.7",
+		"browser-sync": "^2.23.7",
 		"chokidar": "^3.4.0",
-		"cli-real-favicon": "0.0.8",
+		"cli-real-favicon": "^0.0.8",
 		"eslint": "^6.8.0",
 		"eslint-plugin-compat": "^3.7.0",
 		"eslint-plugin-jsx-a11y": "^6.2.3",
@@ -44,7 +44,7 @@
 		"http-proxy": "^1.18.1",
 		"lodash": "^4.17.19",
 		"minimist": "^1.2.5",
-		"node-sass": "^4.14.1",
+		"node-sass": "^5.0.0",
 		"npm-run-all": "^4.1.5",
 		"rimraf": "^2.7.1",
 		"rollup": "^1.32.1",
@@ -52,11 +52,8 @@
 		"rollup-plugin-eslint": "^7.0.0",
 		"rollup-plugin-gzip": "^2.5.0",
 		"rollup-plugin-terser": "^5.3.0",
-		"rollup-plugin-uglify": "^6.0.4",
 		"stylelint": "^13.6.0",
 		"stylelint-config-standard": "^20.0.0",
-		"stylelint-scss": "^3.17.2",
-		"terser": "^4.7.0",
-		"yargs-parser": "^18.1.3"
+		"stylelint-scss": "^3.17.2"
 	}
 }
